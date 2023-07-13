@@ -255,7 +255,6 @@ export default function Example() {
                   </div>
                   <div className="flow-root">
                     <button>
-
                     <a href="#" className="-m-2 block p-2 font-medium text-gray-900">
                       Create account
                     </a>
