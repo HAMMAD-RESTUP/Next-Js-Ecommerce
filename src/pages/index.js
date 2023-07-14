@@ -255,7 +255,7 @@ export default function Example() {
                   </div>
                   <div className="flow-root">
                     <button>
-                    <a href="#" className="-m-2 block p-2 font-medium text-gray-900">
+                    <a href="/register" className="-m-2 block p-2 font-medium text-gray-900">
                       Create account
                     </a>
                     </button>
@@ -419,7 +419,7 @@ export default function Example() {
                   <Link href="/login" className="text-sm font-medium text-gray-50 hover:text-gray-500">  Sign in</Link>
 
                   <span className="h-6 w-px bg-gray-200" aria-hidden="true" />
-                  <Link href="/login" className="text-sm font-medium text-gray-50 hover:text-gray-500"> Create account</Link>
+                  <Link href="/register" className="text-sm font-medium text-gray-50 hover:text-gray-500"> Create account</Link>
 
                 </div>
 
